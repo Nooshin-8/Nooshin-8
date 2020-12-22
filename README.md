@@ -35,3 +35,17 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Nooshin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Nooshin-8&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Nooshin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nooshin-8" />
+
+</details>
