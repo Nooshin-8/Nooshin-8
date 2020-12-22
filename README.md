@@ -6,8 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my app 
 - 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking to colaborate with other software engineers 
+- 👯 I’m looking to colaborate with other software engineers 
 - 💬 Ask me about soft skills
 - 📫 How to reach me: [Instagram] 
 - 😄 Pronouns: ...
