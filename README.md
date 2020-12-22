@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Nooshin's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nooshin-8" />
 
 </details>
+
+[linkedin]: https://www.linkedin.com/in/nooshinattarian/
