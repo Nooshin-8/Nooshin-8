@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Nooshin 👋
+
+<img align="right" alt="GIF" src="https://github.com/Nooshin-8/Nooshin-8/blob/main/code.gif?raw=true" width="500" height="320" />
 
 Here are some ideas to get you started:
 
