@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about soft skills
-- 📫 How to reach me: [Instagram] (https://www.instagram.com/noonootravel/)
+- 📫 How to reach me: [Instagram] 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: let me get back to you on that 
 
@@ -53,3 +53,4 @@ Here are some ideas to get you started:
 </details>
 
 [linkedin]: https://www.linkedin.com/in/nooshinattarian/
+[instagram]: https://www.instagram.com/noonootravel/
