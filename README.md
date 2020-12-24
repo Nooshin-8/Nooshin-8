@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram] 
 - ⚡ Fun fact: let me get back to you on that 
 
-### Talk with me, I am kinda awesome:
+### Let's connect:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
