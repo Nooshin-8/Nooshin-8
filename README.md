@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to colaborate with other software engineers 
 - 💬 Ask me about soft skills
 - 📫 How to reach me: [Instagram] 
-- 😄 Pronouns: ...
 - ⚡ Fun fact: let me get back to you on that 
 
 ### Talk with me, I am kinda awesome:
