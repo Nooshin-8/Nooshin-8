@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Nooshin-8/Nooshin-8/blob/main/code.gif?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
+## I'm a develper who loves to keep learning and creating!
 
 - 🔭 I’m currently working on my app 
 - ✍ You can find my projects here [portfolio]
