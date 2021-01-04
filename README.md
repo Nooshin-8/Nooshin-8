@@ -4,7 +4,7 @@
 
 ## I'm a develper who loves to keep learning and creating!
 
-- 🔭 I’m currently working on my app 
+- 🔭 I’m currently working on my portfolio and my app (using React)
 - ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to colaborate with other software engineers 
