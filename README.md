@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about soft skills
 - 📫 How to reach me: [Instagram] 
 
-### Let's connect: [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] <br />
+### Let's connect: [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
+<br />
 
 ### Languages and Tools:
 
