@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my app 
+- ✍ You can find my projects here [portfolio]
 - 🌱 I’m currently learning TypeScript
 - 👯 I’m looking to colaborate with other software engineers 
 - 💬 Ask me about soft skills
@@ -50,4 +51,5 @@ Here are some ideas to get you started:
 </details>
 
 [linkedin]: https://www.linkedin.com/in/nooshinattarian/
+[portfolio]: https://Nooshin-8.github.io/profile/
 [instagram]: https://www.instagram.com/noonootravel/
